@@ -1,2 +1,3 @@
 # hello-world
-the first git-repo for me
+
+Hi all, this is Hitoshi Tominaga, who starts using github
